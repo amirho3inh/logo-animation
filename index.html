@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>logo animation</title>
+
+    <link rel="stylesheet" href="asset/css/fontSamim.css">
+    <link rel="stylesheet" href="asset/css/style.css">
+
+    <script src="asset/js/jquery-3.3.1.min.js"></script>
+    <script src="asset/js/golabi.js"></script>
+    <script src="asset/js/TweenMax.min.js"></script>
+</head>
+<body>
+<div id="loader"></div>
+
+<div class="content" id="content">
+    <p id="logoText" class="logo-text">شرکت پارس فناوران</p>
+</div>
+
+<script>
+    $(function () {
+        // $('#logoText').center();
+        $('#loader').hide();
+        $('#content').fadeIn();
+    })
+</script>
+
+</body>
+</html>
