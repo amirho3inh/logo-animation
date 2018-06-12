@@ -1,32 +1,12 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>logo animation</title>
-
-    <link rel="stylesheet" href="asset/css/fontSamim.css">
-    <link rel="stylesheet" href="asset/css/style.css">
-
-    <script src="asset/js/jquery-3.3.1.min.js"></script>
-    <script src="asset/js/golabi.js"></script>
-    <script src="asset/js/TweenMax.min.js"></script>
-</head>
-<body>
-<div id="loader"></div>
-
-<div class="content" id="content">
-    <p id="logoText" class="logo-text">شرکت پارس فناوران</p>
-
-    <div id="level1" class="level1">
-        <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="9.26389in" height="9.26389in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="9.26389in" height="9.26389in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 9264 9264"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <font id="FontID1" horiz-adv-x="483" font-variant="normal" class="str2" style="fill-rule:nonzero" font-style="normal" font-weight="200,400">
-	<font-face
+	<font-face 
 		font-family="IRANSans(Small) UltraLight">
 		<font-face-src>
 			<font-face-name name="IRANSans(Small) UltraLight"/>
@@ -44,7 +24,7 @@ viewBox="0 0 9264 9264"
    <glyph unicode="l" horiz-adv-x="173" d="M109.675 -37.8434l-45.3553 0 0 581.002 45.3553 0 0 -581.002z"/>
   </font>
   <font id="FontID0" horiz-adv-x="521" font-variant="normal" class="str0" style="fill-rule:nonzero" font-style="normal" font-weight="700">
-	<font-face
+	<font-face 
 		font-family="IRANSans(Small)">
 		<font-face-src>
 			<font-face-name name="IRANSans(Small) Bold"/>
@@ -63,37 +43,37 @@ viewBox="0 0 9264 9264"
   </font>
   <style type="text/css">
    <![CDATA[
-   @font-face { font-family:"IRANSans(Small) UltraLight";font-variant:normal;font-style:normal;font-weight:200,normal;src:url("#FontID1") format(svg)}
-   @font-face { font-family:"IRANSans(Small)";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
-   .str2 {stroke-width:21.6024}
-   .str0 {stroke-width:10.6732}
-   .str1 {stroke:#FEFEFE;stroke-width:3}
-   .fil19 {fill:#FEFEFE}
-   .fil0 {fill:#FEFEFE;fill-rule:nonzero}
-   .fil2 {fill:#FEC769;fill-rule:nonzero}
-   .fil10 {fill:#FBB141;fill-rule:nonzero}
-   .fil8 {fill:#F69247;fill-rule:nonzero}
-   .fil16 {fill:#F4813A;fill-rule:nonzero}
-   .fil1 {fill:#F7F7F8;fill-rule:nonzero}
-   .fil9 {fill:#EB5967;fill-rule:nonzero}
-   .fil17 {fill:#CB3D45;fill-rule:nonzero}
-   .fil15 {fill:#7C2D40;fill-rule:nonzero}
-   .fil7 {fill:#8B304E;fill-rule:nonzero}
-   .fil12 {fill:#8FA548;fill-rule:nonzero}
-   .fil3 {fill:#66C9D4;fill-rule:nonzero}
-   .fil11 {fill:#3FC1CE;fill-rule:nonzero}
-   .fil5 {fill:#31B4E8;fill-rule:nonzero}
-   .fil13 {fill:#239DD8;fill-rule:nonzero}
-   .fil6 {fill:#32618D;fill-rule:nonzero}
-   .fil14 {fill:#355373;fill-rule:nonzero}
-   .fil18 {fill:black;fill-rule:nonzero}
-   .fil4 {fill:url(#id0)}
-   .fnt1 {font-weight:200;font-size:138.886px;font-family:'IRANSans(Small) UltraLight'}
-   .fnt4 {font-weight:200;font-size:138.886px;font-family:'IRANSans(Small) UltraLight'}
-   .fnt2 {font-weight:normal;font-size:138.886px;font-family:'IRANSans(Small) UltraLight'}
-   .fnt5 {font-weight:normal;font-size:138.886px;font-family:'IRANSans(Small) UltraLight'}
-   .fnt0 {font-weight:bold;font-size:281.122px;font-family:'IRANSans(Small)'}
-   .fnt3 {font-weight:bold;font-size:281.122px;font-family:'IRANSans(Small)'}
+    @font-face { font-family:"IRANSans(Small) UltraLight";font-variant:normal;font-style:normal;font-weight:200,normal;src:url("#FontID1") format(svg)}
+    @font-face { font-family:"IRANSans(Small)";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str2 {stroke-width:21.6024}
+    .str0 {stroke-width:10.6732}
+    .str1 {stroke:#FEFEFE;stroke-width:3}
+    .fil19 {fill:#FEFEFE}
+    .fil0 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil2 {fill:#FEC769;fill-rule:nonzero}
+    .fil10 {fill:#FBB141;fill-rule:nonzero}
+    .fil8 {fill:#F69247;fill-rule:nonzero}
+    .fil16 {fill:#F4813A;fill-rule:nonzero}
+    .fil1 {fill:#F7F7F8;fill-rule:nonzero}
+    .fil9 {fill:#EB5967;fill-rule:nonzero}
+    .fil17 {fill:#CB3D45;fill-rule:nonzero}
+    .fil15 {fill:#7C2D40;fill-rule:nonzero}
+    .fil7 {fill:#8B304E;fill-rule:nonzero}
+    .fil12 {fill:#8FA548;fill-rule:nonzero}
+    .fil3 {fill:#66C9D4;fill-rule:nonzero}
+    .fil11 {fill:#3FC1CE;fill-rule:nonzero}
+    .fil5 {fill:#31B4E8;fill-rule:nonzero}
+    .fil13 {fill:#239DD8;fill-rule:nonzero}
+    .fil6 {fill:#32618D;fill-rule:nonzero}
+    .fil14 {fill:#355373;fill-rule:nonzero}
+    .fil18 {fill:black;fill-rule:nonzero}
+    .fil4 {fill:url(#id0)}
+    .fnt1 {font-weight:200;font-size:138.886px;font-family:'IRANSans(Small) UltraLight'}
+    .fnt4 {font-weight:200;font-size:138.886px;font-family:'IRANSans(Small) UltraLight'}
+    .fnt2 {font-weight:normal;font-size:138.886px;font-family:'IRANSans(Small) UltraLight'}
+    .fnt5 {font-weight:normal;font-size:138.886px;font-family:'IRANSans(Small) UltraLight'}
+    .fnt0 {font-weight:bold;font-size:281.122px;font-family:'IRANSans(Small)'}
+    .fnt3 {font-weight:bold;font-size:281.122px;font-family:'IRANSans(Small)'}
    ]]>
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="3020.75" y1="1231.29" x2="4443.68" y2="2654.22">
@@ -102,45 +82,71 @@ viewBox="0 0 9264 9264"
    <stop offset="1" style="stop-opacity:1; stop-color:#4C5535"/>
   </linearGradient>
  </defs>
-    <g id="Layer_x0020_1">
-        <metadata id="CorelCorpID_0Corel-Layer"/>
-        <!-- main boxs -->
-        <path class="fil3" id="box01" d="M7095 2079c-669,-646 -1531,-977 -2396,-993l0 1441c497,16 989,206 1377,572l1019 -1020z"/>
-        <path class="fil5" id="box02" d="M8178 4567c-16,-866 -346,-1727 -992,-2397l-1019 1019c365,388 555,881 569,1378l1442 0z"/>
-        <path class="fil6" id="box03" d="M7185 7091c646,-670 977,-1531 993,-2396l-1442 0c-15,496 -205,989 -570,1377l1019 1019z"/>
-        <path class="fil7" id="box04" d="M4699 6733l0 1441c865,-16 1726,-347 2396,-993l-1020 -1019c-387,365 -880,555 -1376,571z"/>
-        <path class="fil9" id="box05" d="M2174 7182c670,646 1531,977 2397,992l0 -1441c-497,-15 -990,-205 -1378,-570l-1019 1019z"/>
-        <path class="fil8" id="box06" d="M1090 4695c16,866 347,1727 993,2396l1019 -1019c-365,-388 -555,-880 -571,-1377l-1441 0z"/>
-        <path class="fil2" id="box07" d="M2083 2169c-647,670 -978,1532 -993,2398l1441 0c15,-498 205,-990 571,-1378l-1019 -1020z"/>
-        <path class="fil4" id="box08" d="M4571 1086c-867,15 -1728,346 -2398,993l1019 1019c388,-366 881,-556 1379,-571l0 -1441z"/>
-        <!-- bottom boxs -->
-        <path class="fil11" id="bottom-box01" d="M5866 3309l210 -210c-388,-366 -880,-556 -1377,-572l0 298c421,15 837,176 1167,484z"/>
-        <path class="fil13" id="bottom-box02" d="M6439 4567l297 0c-14,-497 -204,-990 -569,-1378l-211 210c308,330 469,747 483,1168z"/>
-        <path class="fil14" id="bottom-box03" d="M5956 5861l210 211c365,-388 555,-881 570,-1377l-297 0c-15,420 -176,837 -483,1166z"/>
-        <path class="fil15" id="bottom-box04" d="M5865 5952c-329,307 -746,468 -1166,483l0 298c496,-16 989,-206 1376,-571l-210 -210z"/>
-        <path class="fil17" id="bottom-box05" d="M3403 5953l-210 210c388,365 881,555 1378,570l0 -298c-421,-14 -838,-175 -1168,-482z"/>
-        <path class="fil16" id="bottom-box06" d="M2829 4695l-298 0c16,497 206,989 571,1377l211 -210c-308,-330 -470,-746 -484,-1167z"/>
-        <path class="fil10" id="bottom-box07" d="M3312 3399l-210 -210c-366,388 -556,880 -571,1378l297 0c15,-422 176,-838 484,-1168z"/>
-        <path class="fil12" id="bottom-box08" d="M4571 2825l0 -298c-498,15 -991,205 -1379,571l211 210c329,-308 746,-469 1168,-483z"/>
-        <!-- text boxs -->
-        <text x="7727" y="3571"  class="fil19 str1 fnt0">sample text</text>
-        <text x="7709" y="3719"  class="fil19 str1 fnt1">تست هویج</text>
-        <text x="6536" y="2000"  class="fil19 str1 fnt3">sample text</text>
-        <text x="6536" y="2309"  class="fil19 str1 fnt4">سلام عرض میکنم خدمت</text>
-        <text x="6536" y="2470"  class="fil19 str1 fnt4">شما دوستان عزیز.خیلی</text>
-        <text x="6536" y="2638"  class="fil19 str1 fnt4">خوشحال و مفتخریم که</text>
-    </g>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M5508 5491c-62,0 -120,-1 -174,-3l0 -1c53,2 112,3 174,3 255,0 462,-20 462,-46 0,-12 -45,-23 -117,-31 0,0 0,-1 0,-1 78,8 126,20 126,32 0,26 -211,47 -471,47z"/>
+  <path class="fil1" d="M5508 5490c-62,0 -121,-1 -174,-3l0 -1c53,2 112,3 174,3 250,0 452,-20 452,-45 0,-11 -41,-21 -107,-29 0,-1 0,-1 0,-2 72,8 117,19 117,31 0,26 -207,46 -462,46z"/>
+  <path class="fil2" d="M2083 2169c-647,670 -978,1532 -993,2398l1441 0c15,-498 205,-990 571,-1378l-1019 -1020z"/>
+  <path class="fil3" d="M7095 2079c-669,-646 -1531,-977 -2396,-993l0 1441c497,16 989,206 1377,572l1019 -1020z"/>
+  <path class="fil4" d="M4571 1086c-867,15 -1728,346 -2398,993l1019 1019c388,-366 881,-556 1379,-571l0 -1441z"/>
+  <path class="fil5" d="M8178 4567c-16,-866 -346,-1727 -992,-2397l-1019 1019c365,388 555,881 569,1378l1442 0z"/>
+  <path class="fil6" d="M7185 7091c646,-670 977,-1531 993,-2396l-1442 0c-15,496 -205,989 -570,1377l1019 1019z"/>
+  <path class="fil7" d="M4699 6733l0 1441c865,-16 1726,-347 2396,-993l-1020 -1019c-387,365 -880,555 -1376,571z"/>
+  <path class="fil8" d="M1090 4695c16,866 347,1727 993,2396l1019 -1019c-365,-388 -555,-880 -571,-1377l-1441 0z"/>
+  <path class="fil9" d="M2174 7182c670,646 1531,977 2397,992l0 -1441c-497,-15 -990,-205 -1378,-570l-1019 1019z"/>
+  <path class="fil10" d="M3312 3399l-210 -210c-366,388 -556,880 -571,1378l297 0c15,-422 176,-838 484,-1168z"/>
+  <path class="fil11" d="M5866 3309l210 -210c-388,-366 -880,-556 -1377,-572l0 298c421,15 837,176 1167,484z"/>
+  <path class="fil12" d="M4571 2825l0 -298c-498,15 -991,205 -1379,571l211 210c329,-308 746,-469 1168,-483z"/>
+  <path class="fil13" d="M6439 4567l297 0c-14,-497 -204,-990 -569,-1378l-211 210c308,330 469,747 483,1168z"/>
+  <path class="fil14" d="M5956 5861l210 211c365,-388 555,-881 570,-1377l-297 0c-15,420 -176,837 -483,1166z"/>
+  <path class="fil15" d="M5865 5952c-329,307 -746,468 -1166,483l0 298c496,-16 989,-206 1376,-571l-210 -210z"/>
+  <path class="fil16" d="M2829 4695l-298 0c16,497 206,989 571,1377l211 -210c-308,-330 -470,-746 -484,-1167z"/>
+  <path class="fil17" d="M3403 5953l-210 210c388,365 881,555 1378,570l0 -298c-421,-14 -838,-175 -1168,-482z"/>
+  <path class="fil0" d="M5623 1471c-9,0 -18,3 -25,9 -8,6 -13,17 -17,32 -4,15 -6,37 -6,66 0,38 4,64 13,78 9,15 21,22 35,22 14,0 25,-7 33,-20 10,-17 15,-45 15,-83 0,-40 -4,-67 -13,-82 -9,-15 -21,-22 -35,-22zm-1 -54c22,0 41,5 56,16 16,11 28,27 37,49 9,22 13,53 13,92 0,40 -4,71 -13,93 -9,22 -21,38 -35,48 -15,11 -34,16 -56,16 -23,0 -42,-5 -57,-16 -15,-10 -27,-26 -36,-47 -9,-22 -13,-52 -13,-91 0,-55 8,-95 25,-119 19,-28 45,-41 79,-41z"/>
+  <polygon class="fil0" points="5808,1424 5893,1424 5893,1723 5837,1723 5837,1478 5775,1478 "/>
+  <polygon class="fil0" points="5144,1827 6283,1827 6283,1793 5144,1793 "/>
+  <path class="fil0" d="M7173 3016c-9,0 -18,3 -25,9 -8,6 -13,17 -17,32 -4,15 -6,37 -6,66 0,37 4,63 13,78 9,14 21,22 35,22 14,0 25,-7 33,-21 10,-17 15,-44 15,-83 0,-39 -5,-66 -13,-81 -9,-15 -21,-22 -35,-22zm-1 -55c22,0 40,6 56,17 16,10 28,27 37,49 8,22 13,52 13,92 0,39 -5,70 -13,92 -9,22 -21,38 -36,49 -14,10 -33,15 -56,15 -22,0 -41,-5 -56,-15 -16,-11 -27,-27 -36,-48 -9,-21 -13,-51 -13,-91 0,-55 8,-94 25,-119 19,-27 45,-41 79,-41z"/>
+  <path class="fil0" d="M7362 3065l-56 0c2,-32 12,-57 31,-76 19,-18 43,-28 72,-28 18,0 34,4 48,12 14,8 25,19 33,33 9,14 13,29 13,44 0,18 -5,37 -15,57 -10,21 -29,45 -56,73l-33 35 106 0 0 53 -207 0 0 -27 93 -95c22,-22 37,-40 44,-54 8,-14 11,-26 11,-37 0,-12 -3,-22 -11,-29 -8,-8 -18,-11 -30,-11 -12,0 -22,4 -30,13 -8,9 -13,22 -13,37z"/>
+  <polygon class="fil0" points="6722,3372 7860,3372 7860,3337 6722,3337 "/>
+  <path class="fil0" d="M7052 5107c-9,0 -18,3 -25,9 -8,6 -13,17 -17,32 -4,15 -6,37 -6,66 0,38 4,64 13,78 9,15 21,22 35,22 14,0 25,-7 33,-21 10,-16 15,-44 15,-83 0,-39 -4,-66 -13,-81 -9,-15 -21,-22 -35,-22zm-1 -54c22,0 41,5 56,16 16,11 28,27 37,49 9,22 13,53 13,92 0,39 -5,70 -13,92 -9,23 -21,39 -36,49 -14,10 -33,16 -55,16 -23,0 -42,-6 -57,-16 -15,-10 -27,-26 -36,-48 -9,-21 -13,-51 -13,-90 0,-55 8,-95 25,-120 19,-27 45,-40 79,-40z"/>
+  <path class="fil0" d="M7247 5134l-54 0c3,-22 11,-40 24,-53 18,-19 41,-28 68,-28 25,0 45,8 62,23 16,16 25,34 25,56 0,13 -4,25 -11,36 -8,11 -18,20 -32,27 18,5 32,14 43,28 10,13 15,29 15,48 0,26 -10,49 -30,68 -19,18 -45,28 -75,28 -29,0 -53,-9 -71,-27 -18,-17 -28,-41 -30,-71l56 0c3,15 8,27 16,34 9,8 19,11 32,11 13,0 24,-4 33,-12 9,-9 13,-19 13,-32 0,-13 -6,-25 -18,-34 -11,-9 -28,-14 -51,-14l0 -49c14,-1 24,-3 31,-7 7,-3 12,-7 16,-13 3,-5 5,-11 5,-17 0,-8 -3,-15 -8,-21 -6,-5 -14,-8 -23,-8 -8,0 -15,3 -22,8 -7,5 -11,11 -14,19z"/>
+  <polygon class="fil0" points="6601,5463 7739,5463 7739,5428 6601,5428 "/>
+  <path class="fil0" d="M3464 6632c-10,0 -19,3 -26,9 -7,6 -13,17 -17,32 -4,15 -6,37 -6,66 0,38 5,64 14,78 9,15 20,22 35,22 13,0 24,-7 32,-20 10,-17 15,-45 15,-83 0,-40 -4,-67 -13,-82 -9,-15 -20,-22 -34,-22zm-2 -54c22,0 41,5 57,16 15,11 28,27 36,49 9,22 13,53 13,92 0,40 -4,71 -13,93 -9,22 -20,38 -35,48 -15,11 -34,16 -56,16 -23,0 -41,-5 -57,-16 -15,-10 -27,-26 -36,-47 -8,-22 -13,-52 -13,-91 0,-55 9,-95 26,-119 18,-27 45,-41 78,-41z"/>
+  <path class="fil0" d="M3649 6586l140 0 0 52 -97 0 -13 54c4,-1 7,-1 10,-2 4,0 7,0 10,0 27,0 49,9 67,27 18,19 27,42 27,71 0,29 -10,54 -30,74 -19,20 -44,30 -72,30 -25,0 -47,-7 -66,-22 -18,-14 -30,-34 -36,-59l60 0c5,9 11,16 18,21 8,5 16,7 25,7 13,0 24,-4 32,-14 9,-9 14,-20 14,-34 0,-14 -5,-26 -13,-35 -8,-8 -18,-13 -29,-13 -7,0 -13,2 -19,5 -6,3 -12,8 -18,14l-46 -10 36 -166z"/>
+  <polygon class="fil0" points="3012,6988 4151,6988 4151,6954 3012,6954 "/>
+  <path class="fil0" d="M1948 5085c-10,0 -18,3 -26,9 -7,6 -13,17 -17,32 -4,15 -6,37 -6,66 0,38 5,64 14,78 9,15 20,22 35,22 14,0 24,-7 33,-20 9,-17 14,-45 14,-83 0,-40 -4,-67 -13,-82 -9,-15 -20,-22 -34,-22zm-2 -54c22,0 41,5 57,16 16,11 28,27 36,49 9,22 13,53 13,92 0,40 -4,71 -13,93 -9,22 -20,38 -35,48 -15,11 -33,16 -56,16 -22,0 -41,-5 -57,-16 -15,-10 -27,-26 -36,-47 -8,-22 -13,-52 -13,-91 0,-55 9,-95 26,-119 19,-27 45,-41 78,-41z"/>
+  <path class="fil0" d="M2177 5211c-10,0 -19,3 -26,11 -7,8 -11,17 -11,29 0,11 4,21 11,29 8,8 17,12 27,12 10,0 19,-4 27,-12 7,-8 11,-17 11,-29 0,-12 -3,-21 -11,-29 -7,-8 -16,-11 -28,-11zm8 -180l48 24 -52 102c25,0 47,9 64,27 18,18 27,41 27,68 0,26 -9,48 -27,66 -19,18 -41,27 -66,27 -27,0 -50,-9 -68,-28 -18,-19 -27,-40 -27,-65 0,-9 2,-18 5,-28 2,-9 9,-23 19,-43l77 -150z"/>
+  <polygon class="fil0" points="1496,5441 2635,5441 2635,5407 1496,5407 "/>
+  <path class="fil0" d="M1875 3023c-10,0 -18,3 -26,9 -7,6 -13,17 -17,32 -3,15 -5,37 -5,66 0,37 4,64 13,78 9,14 21,22 35,22 14,0 25,-7 33,-21 10,-16 15,-44 15,-83 0,-39 -5,-66 -14,-81 -8,-15 -20,-22 -34,-22zm-1 -54c22,0 40,5 56,16 16,10 28,27 37,49 8,22 13,52 13,92 0,39 -5,70 -14,92 -8,22 -20,39 -35,49 -15,10 -33,15 -56,15 -22,0 -41,-5 -56,-15 -16,-11 -28,-26 -36,-48 -9,-21 -13,-51 -13,-91 0,-54 8,-94 25,-119 19,-27 45,-40 79,-40z"/>
+  <polygon class="fil0" points="2016,2976 2212,2976 2212,3006 2077,3282 2029,3259 2142,3030 2016,3030 "/>
+  <polygon class="fil0" points="1424,3379 2562,3379 2562,3344 1424,3344 "/>
+  <path class="fil0" d="M3448 1460c-10,0 -18,3 -26,9 -7,6 -13,17 -17,32 -4,15 -5,37 -5,66 0,38 4,64 13,78 9,15 21,22 35,22 14,0 25,-7 33,-21 10,-16 15,-44 15,-82 0,-40 -5,-67 -14,-82 -9,-15 -20,-22 -34,-22zm-1 -54c21,0 40,5 56,16 16,11 28,27 37,49 8,22 12,53 12,92 0,40 -4,71 -13,93 -8,22 -20,38 -35,48 -15,11 -33,16 -56,16 -22,0 -41,-5 -56,-16 -16,-10 -28,-26 -36,-47 -9,-22 -13,-52 -13,-91 0,-55 8,-95 25,-119 19,-28 45,-41 79,-41z"/>
+  <path class="fil0" d="M3679 1461c-9,0 -17,3 -23,9 -6,6 -9,14 -9,24 0,9 3,17 9,24 7,6 15,9 24,9 10,0 17,-3 24,-9 6,-7 9,-15 9,-25 0,-9 -3,-17 -10,-23 -6,-6 -14,-9 -24,-9zm2 120c-14,0 -25,4 -34,12 -10,8 -14,18 -14,30 0,12 4,22 13,30 9,9 20,13 35,13 14,0 26,-4 34,-12 9,-8 13,-18 13,-30 0,-12 -4,-23 -13,-31 -9,-8 -20,-12 -34,-12zm61 -31c13,9 24,20 31,34 8,13 11,28 11,44 0,17 -4,33 -13,48 -8,14 -20,25 -34,33 -15,7 -33,11 -56,11 -24,0 -43,-4 -57,-11 -14,-7 -26,-18 -34,-32 -9,-15 -13,-31 -13,-49 0,-16 3,-30 10,-43 7,-13 17,-25 31,-35 -9,-9 -16,-18 -20,-29 -5,-10 -7,-21 -7,-32 0,-16 4,-30 11,-43 8,-12 18,-22 32,-29 13,-8 29,-11 47,-11 17,0 33,3 46,11 13,7 24,17 31,30 8,13 12,28 12,43 0,10 -2,20 -6,29 -4,10 -12,20 -22,31z"/>
+  <polygon class="fil0" points="2997,1816 4135,1816 4135,1782 2997,1782 "/>
+  <path class="fil0" d="M5551 6630c-10,0 -18,3 -26,10 -7,6 -13,16 -17,31 -4,15 -6,37 -6,66 0,38 5,64 14,79 9,14 21,21 35,21 14,0 25,-6 33,-20 10,-17 15,-44 15,-83 0,-39 -5,-66 -14,-81 -9,-15 -20,-23 -34,-23zm-1 -54c21,0 40,6 56,16 16,11 28,27 37,49 8,22 12,53 12,92 0,40 -4,71 -13,93 -8,22 -20,38 -35,49 -15,10 -33,15 -56,15 -22,0 -41,-5 -56,-15 -16,-11 -28,-27 -36,-48 -9,-21 -13,-51 -13,-91 0,-55 8,-94 25,-119 19,-27 45,-41 79,-41z"/>
+  <path class="fil0" d="M5806 6769l0 -100 -68 100 68 0zm-1 -193l57 0 0 193 26 0 0 52 -26 0 0 62 -56 0 0 -62 -130 0 0 -52 129 -193z"/>
+  <polygon class="fil0" points="5100,6987 6238,6987 6238,6952 5100,6952 "/>
+  <polygon class="fil18" points="0,8767 375,8767 375,8760 0,8760 "/>
+  <polygon class="fil18" points="497,9264 503,9264 503,8889 497,8889 "/>
+  <polygon class="fil18" points="0,500 375,500 375,493 0,493 "/>
+  <polygon class="fil18" points="497,371 503,371 503,-4 497,-4 "/>
+  <polygon class="fil18" points="8893,500 9268,500 9268,493 8893,493 "/>
+  <polygon class="fil18" points="8764,371 8771,371 8771,-4 8764,-4 "/>
+  <polygon class="fil18" points="8893,8767 9268,8767 9268,8760 8893,8760 "/>
+  <polygon class="fil18" points="8764,9264 8771,9264 8771,8889 8764,8889 "/>
+  <text x="6727" y="3571"  class="fil19 str1 fnt0">sample text</text>
+  <text x="6709" y="3719"  class="fil19 str1 fnt1">sample textsampmpmple</text>
+  <text x="7261" y="3833"  class="fil19 str1 fnt2"> </text>
+  <text x="6709" y="3833"  class="fil19 str1 fnt1">sample text</text>
+  <text x="7289" y="3833"  class="fil19 str1 fnt1">sampmpmple</text>
+  <text x="6709" y="3948"  class="fil19 str1 fnt1">sample tmpmpmpmpmp</text>
+  <text x="6709" y="4063"  class="fil19 str1 fnt1">mpmpmpmpmpext</text>
+  <text x="5154" y="2047"  class="fil19 str1 fnt3">sample text</text>
+  <text x="5136" y="2194"  class="fil19 str1 fnt4">sample textsampmpmple</text>
+  <text x="5688" y="2309"  class="fil19 str1 fnt5"> </text>
+  <text x="5136" y="2309"  class="fil19 str1 fnt4">sample text</text>
+  <text x="5716" y="2309"  class="fil19 str1 fnt4">sampmpmple</text>
+  <text x="5136" y="2423"  class="fil19 str1 fnt4">sample tmpmpmpmpmp</text>
+  <text x="5136" y="2538"  class="fil19 str1 fnt4">mpmpmpmpmpext</text>
+ </g>
 </svg>
-    </div>
-</div>
-
-<script>
-    $(function () {
-        // $('#logoText').center();
-        $('#loader').hide();
-        $('#content').fadeIn();
-    })
-</script>
-
-</body>
-</html>

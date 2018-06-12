@@ -24,10 +24,18 @@ body{
     border-bottom: 2px solid #00c0c9;
     float: left;
     margin-left: 30px;
+    position: absolute;
+    left: 0;
 }
 
 .content{
     display: none;
+}
+
+.content .level1{
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
 }
 
 #loader {
